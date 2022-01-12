@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lap1Calculator</string>
+    <string name="textview">TextView</string>
+    <string name="calculator">Calculator</string>
+    <string name="cong">Cong</string>
+    <string name="tru">tru</string>
+    <string name="nhan">Nhan</string>
+    <string name="chia">Chia</string>
+    <string name="nhap_so_thu_hai">Nhap so thu hai</string>
+    <string name="nhap_so_dau_tien">Nhap so dau tien</string>
+</resources>
